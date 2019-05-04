@@ -1,3 +1,9 @@
+---
+layout: post
+title: 'Hi'
+date: '2018-05-04'
+---
+
 Hi! I'm Brian.
 
 I have a lot of ideas (admittedly, many are probably not that great), but most of the time my focus-span is much shorter than the 
