@@ -1,0 +1,7 @@
+Hi! I'm Brian.
+
+I have a lot of ideas (admittedly, many are probably not that great), but most of the time my focus-span is much shorter than the 
+time required to communicate them or execute on them. Going to start using this space to at least write things down outside 
+of the notes app.
+
+Probably my posts will be short, incomplete, and infrequent, but I hope at least a few ppl get something worthwhile out of them.
